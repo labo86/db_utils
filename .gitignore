@@ -4,6 +4,7 @@
 /composer.phar
 /vendor
 /scripts/phar-composer*
+scripts/db_utils.phar
 /.idea/*
 !/.idea/dictionaries
 /.idea/dictionaries/*

@@ -18,6 +18,11 @@ Una nueva asombrosa biblioteca Composer.
 composer require labo86/db_utils
 ```
 
+```
+wget https://github.com/labo86/db_utils/releases/download/0.1.1/db_utils.phar;
+wget https://raw.githubusercontent.com/labo86/db_utils/master/examples/script.php
+```
+
 ## Información de mi máquina de desarrollo
 Salida de [system_info.sh](https://github.com/labo86/db_utils/blob/master/scripts/system_info.sh)
 ```
