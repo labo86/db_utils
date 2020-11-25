@@ -3,6 +3,7 @@
 /composer.lock
 /composer.phar
 /vendor
+/scripts/phar-composer*
 /.idea/*
 !/.idea/dictionaries
 /.idea/dictionaries/*
